@@ -1,0 +1,3 @@
+Reduced width by 0.5mm
+Reduced lowermost length by 1mm
+Reduced mount screw distance by 1mm
