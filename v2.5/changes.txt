@@ -1,0 +1,1 @@
+Reduced width of top, fillet3, middle, lower by 0.2mm
